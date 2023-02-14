@@ -1,0 +1,27 @@
+h3 {
+  margin-top: 1rem;;
+  font-size: 1.5rem;
+}
+
+span {
+  font-size: 1.2rem;
+}
+
+body {
+  text-align: center;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+
+img{
+max-width: 100%;
+max-height: 100%;
+}
+
+div {
+  width: 50%;
+}

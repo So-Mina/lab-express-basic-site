@@ -1,0 +1,50 @@
+.facts {
+  text-align: center;
+}
+
+h2, h3 {
+  margin-top: 2rem;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+section div {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 2rem 0rem;
+  width: 30%;
+}
+
+.mixtapes, .written, .produced {
+  border: 1px dashed black;
+}
+
+span {
+  text-decoration: underline;
+}
+
+img {
+  margin-top: 1rem;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+}
+
+.written, .produced{
+  display: flex;
+  justify-content: space-between;
+}
+
+.mixtapes img {
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: goldenrod;
+}
